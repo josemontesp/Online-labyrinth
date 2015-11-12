@@ -1,0 +1,19 @@
+C:\Users\Administrador\Desktop\Chat2\Chat2\Chat2 - Launcher\bin\Debug\Chat2 - Launcher.exe.config
+C:\Users\Administrador\Desktop\Chat2\Chat2\Chat2 - Launcher\bin\Debug\Chat2 - Launcher.exe
+C:\Users\Administrador\Desktop\Chat2\Chat2\Chat2 - Launcher\bin\Debug\Chat2 - Launcher.pdb
+C:\Users\Administrador\Desktop\Chat2\Chat2\Chat2 - Launcher\bin\Debug\Chat2 - Client.exe
+C:\Users\Administrador\Desktop\Chat2\Chat2\Chat2 - Launcher\bin\Debug\Chat2 - Server.exe
+C:\Users\Administrador\Desktop\Chat2\Chat2\Chat2 - Launcher\bin\Debug\Backend.dll
+C:\Users\Administrador\Desktop\Chat2\Chat2\Chat2 - Launcher\bin\Debug\Chat2 - Client.pdb
+C:\Users\Administrador\Desktop\Chat2\Chat2\Chat2 - Launcher\bin\Debug\Chat2 - Server.pdb
+C:\Users\Administrador\Desktop\Chat2\Chat2\Chat2 - Launcher\bin\Debug\Backend.pdb
+C:\Users\Administrador\Desktop\Chat2\Chat2\Chat2 - Launcher\obj\Debug\Chat2 - Launcher.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Chat2\Chat2\Chat2 - Launcher\obj\Debug\MainWindow.baml
+C:\Users\Administrador\Desktop\Chat2\Chat2\Chat2 - Launcher\obj\Debug\MainWindow.g.cs
+C:\Users\Administrador\Desktop\Chat2\Chat2\Chat2 - Launcher\obj\Debug\App.g.cs
+C:\Users\Administrador\Desktop\Chat2\Chat2\Chat2 - Launcher\obj\Debug\Chat2 - Launcher_MarkupCompile.cache
+C:\Users\Administrador\Desktop\Chat2\Chat2\Chat2 - Launcher\obj\Debug\Chat2 - Launcher.g.resources
+C:\Users\Administrador\Desktop\Chat2\Chat2\Chat2 - Launcher\obj\Debug\Chat2___Launcher.Properties.Resources.resources
+C:\Users\Administrador\Desktop\Chat2\Chat2\Chat2 - Launcher\obj\Debug\Chat2 - Launcher.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Chat2\Chat2\Chat2 - Launcher\obj\Debug\Chat2 - Launcher.exe
+C:\Users\Administrador\Desktop\Chat2\Chat2\Chat2 - Launcher\obj\Debug\Chat2 - Launcher.pdb
